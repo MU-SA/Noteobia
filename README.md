@@ -17,7 +17,7 @@ Android Memo App
 
 <br/>
 <h3>"First Note Successfully added!"<h3/><br/>
-<h6>All your notes are saved in a SQLite Database that is kept private and ssave, if you want to remove a note just swipe it to the right or to the left<h6/><br/>
+<h6>All your notes are saved in a SQLite Database that is kept private and save, if you want to remove a note just swipe it to the right or to the left<h6/><br/>
 <img src="https://github.com/MU-SA/Noteopia/blob/master/Noteopia/extras/Screenshot_2017-12-04-10-57-02.png" height = "50%" width="50%">
 
 
