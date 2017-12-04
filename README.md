@@ -2,7 +2,7 @@
 Android Memo App
 <br/>
 <h3>"Noteopia Welcome Screen"<h3/><br/>
-<img src="https://github.com/MU-SA/Noteopia/blob/master/Noteopia/extras/splash.png" height = "50%" width="50%">
+<img src="https://github.com/MU-SA/Noteopia/blob/master/Noteopia/extras/splash.png" height = "25%" width="25%">
 
 <br/>
 <h3>"Main Screen"<h3/><br/>
