@@ -1,4 +1,4 @@
-# Noteobia
+# Noteopia
 Android Memo App
 <br/>
 <h3>"Noteopia Welcome Screen"<h3/><br/>
